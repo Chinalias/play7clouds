@@ -1,4 +1,4 @@
 token=NTEwODM4NTg1MDIxNDMxODA4.DsiMPA._NSDqRRHm-u7F3-fWBSp34ahTwI
 owner=507647817280389126
-prefix=7play
+prefix=7
 stayinchannel=true
